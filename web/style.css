@@ -1,0 +1,141 @@
+body {
+		background: #FAEBD7;
+		margin: 30px;
+		padding: 0px;
+	}
+.header {
+		background: #708090;
+		height: 115px;
+		width: 100%;
+	}
+.header p {
+		color: white;
+		font-family: calibri;
+		font-size: 60px;
+}
+.header img{
+		margin-left:auto;
+		margin-right:auto;
+		display:block;
+		clear:both;
+		padding: 25px;
+}
+.isi {
+		height: 1500px;
+		background: white;
+	}
+.kanan {
+		float: right;
+		height: 45%;
+		width: 50%;
+		background: white;
+	}	
+.kiri {
+		float: left;
+		height: 45%;
+		width: 50%;
+		background: white;
+	}
+.merah {
+		height: 20px;
+		width: 100%;
+		background: #CD5C5C;
+	}
+.putih {
+		height: 20px;
+		width: 100%;
+		background: #DCDCDC;
+	}
+.content {
+		background: white;
+		height: 45%;
+		width: 100%;
+	}
+.content h3 {
+		color: black;
+		font-family: calibri;
+		line-height: 0px;
+}
+.content p {
+		color: black;
+		font-family: calibri;
+		line-height: 25px;
+	}
+.content1 {
+		height: 485px;
+		width: 100%;
+		background: #708090;
+		float: left;
+	}
+.content1 img {
+		height: 60%;
+		width: 60%;
+		display: block;
+  		margin-left: auto;
+    	margin-right: auto;
+}
+.content1 h3 {
+		color: white;
+		font-family: calibri;
+		line-height: 0px;
+}
+.content1 p {
+		color: white;
+		font-family: calibri;
+		line-height: 25px;
+}
+.content2 {
+		height: 14.1%;
+		width: 100%;
+		background: white;
+		float: left;
+}
+.content2 h3 {
+		color: black;
+		font-family: calibri;
+		line-height: 0px;
+}
+.content2 p {
+		color: black;
+		font-family: calibri;
+		line-height: 25px;
+}
+.full {
+	width: 100%;
+	height: 100%;
+	background: white;
+}
+.fullputih {
+	float: left;
+	width: 3%;
+	height: 55%;
+	background: white;
+}
+.fullmerah {
+	float: left;
+	width: 4%;
+	height: 55%;
+	background: #D2691E;
+}
+.fullisi h3 {
+		color: black;
+		font-family: calibri;
+		line-height: 0px;
+}
+.fullisi h4 {
+		color: black;
+		font-family: calibri;
+		line-height: 25px;
+}
+.fullisi p {
+		color: black;
+		font-family: calibri;
+		line-height: 25px;
+}
+.fullisi td {
+	border: solid 1px #446982;
+    border-radius: 3px;
+    background: #D1DEE7;    
+    padding:5px;
+    color: #000;
+}
